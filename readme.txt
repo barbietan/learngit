@@ -4,4 +4,4 @@ it works.
 really？
 good job!
 change to a new branch dev~
-creating a new branch is quick &simple.
+creating a new branch is quick & simple.
