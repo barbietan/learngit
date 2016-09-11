@@ -1,4 +1,4 @@
-hahaha
+i'm installing git at home now...
 git is a distrubuted version control system.
 git is free software distributed under the gpl.
 it works.
